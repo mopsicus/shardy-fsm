@@ -1,0 +1,32 @@
+{
+  "name": "com.mopsicus.shardy.fsm",
+  "version": "1.0.0",
+  "displayName": "FSM",
+  "description": "Finite state machine for Shardy and more",
+  "license": "MIT",
+  "author": "Mopsicus <mail@mopsicus.ru>",
+  "homepage": "https://github.com/mopsicus/shardy-fsm",
+  "changelogUrl": "https://github.com/mopsicus/shardy-fsm/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/mopsicus/shardy-fsm/blob/main/Documentation~/index.md",
+  "unity": "2022.3",
+  "keywords": [
+    "shardy",
+    "fsm",
+    "plugin",
+    "csharp",
+    "state",
+    "finite-state-machine"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mopsicus/shardy-fsm.git"
+  },  
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "A demo scene with FSM example",
+      "path": "Samples~/Demo"
+    }   
+  ]
+}
